@@ -23,5 +23,6 @@ gunzip < {BACKUP_FILENAME}.sql.gz | msyql -u {USER_NAME} -p{PASSWORD} {DB_NAME}
 ```
 
 ###Additional References
+
 * [MySQL Backup and Restore - Webcheatsheet.com](http://webcheatsheet.com/sql/mysql_backup_restore.php)
 * [Compressing Mysqldump Output](http://www.ducea.com/2006/10/28/compressing-mysqldump-output/)
