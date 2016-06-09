@@ -7,4 +7,4 @@ Notes, Cheatsheets, Tutorials, Documents and Resources
 
 ## MySQL 
 
-[Command Line Cheats/Notes](docs/mysql/cmd-line-cheats.md)
+[Command Line](docs/mysql/cmd-line-cheats.md)
